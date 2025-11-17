@@ -17,7 +17,3 @@ public class A {
 
 
 
-//מחלקה C
-
-
-

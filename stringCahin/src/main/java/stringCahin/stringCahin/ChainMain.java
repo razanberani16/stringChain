@@ -1,11 +1,6 @@
 package stringCahin.stringCahin;
-
-
-
 public class ChainMain {
 	
-
-
 	public String run() {
         // יצירת השרשרת לפי הסדר הנכון
         E e = new E();
@@ -19,7 +14,8 @@ public class ChainMain {
 
         // הדפסת התוצאה הסופית למסך
         return result;    }
-
+	
+	
 }
 
 
